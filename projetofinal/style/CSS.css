@@ -1,0 +1,40 @@
+html{
+    color:cornflowerblue;
+}
+
+body{
+    background-color: rgb(7, 7, 48);
+
+}
+h3{
+    color:cornflowerblue;
+}
+header {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    
+}
+
+h1{
+    font-size:4rem;
+}
+
+a{
+    text-decoration: none;
+    color: snow;
+    font-size: 3rem;
+    line-height:5rem;
+}
+
+fieldset{
+    color:snow;
+    margin:auto;
+}
+
+input{
+    color:yellow;
+    background-color: black;
+}
